@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Satellite Investigation of Transboundary Haze Transport from Sumatran Fires to George Town, Penang"
+type: software
+version: 1.0.0
+date-released: 2026-09-20
+authors:
+  - family-names: "Lim"
+    given-names: "Avelyn Xing Rui"
+abstract: >-
+  Reproducible satellite remote-sensing investigation of the relationship
+  between Sumatran fire activity, atmospheric transport, and aerosol loading
+  over George Town, Penang, during August and September 2019.
+keywords:
+  - satellite remote sensing
+  - transboundary haze
+  - Sumatra
+  - Penang
+  - VIIRS
+  - MAIAC AOD
+  - Sentinel-5P
+  - ERA5
+  - HYSPLIT
+license: MIT

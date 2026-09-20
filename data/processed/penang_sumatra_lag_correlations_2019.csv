@@ -1,0 +1,33 @@
+outcome,fire_metric,lag_days,scope,n_pairs,pearson_r,spearman_rho
+MAIAC AOD mean,Eligible fire detections,0,All available days,27,0.8212,0.5842
+MAIAC AOD mean,Eligible fire detections,0,850 hPa toward Penang,21,0.8095,0.5597
+MAIAC AOD mean,Eligible fire detections,1,All available days,27,0.8157,0.7045
+MAIAC AOD mean,Eligible fire detections,1,850 hPa toward Penang,20,0.8119,0.7308
+MAIAC AOD mean,Eligible fire detections,2,All available days,26,0.646,0.5685
+MAIAC AOD mean,Eligible fire detections,2,850 hPa toward Penang,18,0.5991,0.4964
+MAIAC AOD mean,Eligible fire detections,3,All available days,25,0.4009,0.5131
+MAIAC AOD mean,Eligible fire detections,3,850 hPa toward Penang,17,0.3178,0.5392
+MAIAC AOD mean,Sampled eligible FRP (MW),0,All available days,27,0.82,0.5269
+MAIAC AOD mean,Sampled eligible FRP (MW),0,850 hPa toward Penang,21,0.8071,0.4636
+MAIAC AOD mean,Sampled eligible FRP (MW),1,All available days,27,0.7883,0.6068
+MAIAC AOD mean,Sampled eligible FRP (MW),1,850 hPa toward Penang,20,0.785,0.6331
+MAIAC AOD mean,Sampled eligible FRP (MW),2,All available days,26,0.6431,0.6684
+MAIAC AOD mean,Sampled eligible FRP (MW),2,850 hPa toward Penang,18,0.6044,0.6987
+MAIAC AOD mean,Sampled eligible FRP (MW),3,All available days,25,0.4628,0.5531
+MAIAC AOD mean,Sampled eligible FRP (MW),3,850 hPa toward Penang,17,0.3949,0.4804
+Penang S5P Aerosol Index mean,Eligible fire detections,0,All available days,61,0.031,-0.0279
+Penang S5P Aerosol Index mean,Eligible fire detections,0,850 hPa toward Penang,36,0.2054,0.0196
+Penang S5P Aerosol Index mean,Eligible fire detections,1,All available days,60,0.0623,0.0191
+Penang S5P Aerosol Index mean,Eligible fire detections,1,850 hPa toward Penang,35,0.0733,0.0541
+Penang S5P Aerosol Index mean,Eligible fire detections,2,All available days,59,-0.1753,-0.1036
+Penang S5P Aerosol Index mean,Eligible fire detections,2,850 hPa toward Penang,35,-0.2014,-0.0941
+Penang S5P Aerosol Index mean,Eligible fire detections,3,All available days,58,-0.043,0.0539
+Penang S5P Aerosol Index mean,Eligible fire detections,3,850 hPa toward Penang,34,-0.1159,0.0267
+Penang S5P Aerosol Index mean,Sampled eligible FRP (MW),0,All available days,61,0.0211,-0.0076
+Penang S5P Aerosol Index mean,Sampled eligible FRP (MW),0,850 hPa toward Penang,36,0.1867,0.0342
+Penang S5P Aerosol Index mean,Sampled eligible FRP (MW),1,All available days,60,0.0822,-0.0213
+Penang S5P Aerosol Index mean,Sampled eligible FRP (MW),1,850 hPa toward Penang,35,0.0996,-0.0555
+Penang S5P Aerosol Index mean,Sampled eligible FRP (MW),2,All available days,59,-0.1474,-0.104
+Penang S5P Aerosol Index mean,Sampled eligible FRP (MW),2,850 hPa toward Penang,35,-0.1702,-0.1039
+Penang S5P Aerosol Index mean,Sampled eligible FRP (MW),3,All available days,58,-0.0412,0.0572
+Penang S5P Aerosol Index mean,Sampled eligible FRP (MW),3,850 hPa toward Penang,34,-0.1281,0.0891

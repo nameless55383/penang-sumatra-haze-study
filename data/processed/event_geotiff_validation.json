@@ -1,0 +1,171 @@
+{
+  "result": "pass",
+  "rasters": [
+    {
+      "file": "era5_850hpa_wind_2019-09-11.tif",
+      "byteOrder": "II",
+      "tiffVariant": "BigTIFF",
+      "width": 49,
+      "height": 60,
+      "samplesPerPixel": 2,
+      "bitsPerSample": [
+        32,
+        32
+      ],
+      "planarConfiguration": 1,
+      "pixelSizeDegrees": [
+        0.26949458523585645,
+        0.26949458523585645
+      ],
+      "bounds": {
+        "west": 94.86209400302147,
+        "south": -7.00685921613227,
+        "east": 108.06732867957844,
+        "north": 9.162815898019119
+      },
+      "requestedBounds": {
+        "west": 95,
+        "south": -7,
+        "east": 108,
+        "north": 9
+      },
+      "coversRequested": true,
+      "geographicCrs": 4326,
+      "rasterType": 1,
+      "bandDescriptions": [
+        "u850_mps",
+        "v850_mps"
+      ],
+      "noData": null,
+      "metadataPresent": true,
+      "expectedBands": [
+        "u850_mps",
+        "v850_mps"
+      ],
+      "bandOrderVerified": true,
+      "valid": true
+    },
+    {
+      "file": "era5_850hpa_wind_2019-09-22.tif",
+      "byteOrder": "II",
+      "tiffVariant": "BigTIFF",
+      "width": 49,
+      "height": 60,
+      "samplesPerPixel": 2,
+      "bitsPerSample": [
+        32,
+        32
+      ],
+      "planarConfiguration": 1,
+      "pixelSizeDegrees": [
+        0.26949458523585645,
+        0.26949458523585645
+      ],
+      "bounds": {
+        "west": 94.86209400302147,
+        "south": -7.00685921613227,
+        "east": 108.06732867957844,
+        "north": 9.162815898019119
+      },
+      "requestedBounds": {
+        "west": 95,
+        "south": -7,
+        "east": 108,
+        "north": 9
+      },
+      "coversRequested": true,
+      "geographicCrs": 4326,
+      "rasterType": 1,
+      "bandDescriptions": [
+        "u850_mps",
+        "v850_mps"
+      ],
+      "noData": null,
+      "metadataPresent": true,
+      "expectedBands": [
+        "u850_mps",
+        "v850_mps"
+      ],
+      "bandOrderVerified": true,
+      "valid": true
+    },
+    {
+      "file": "s5p_ai_2019-09-11.tif",
+      "byteOrder": "II",
+      "tiffVariant": "BigTIFF",
+      "width": 290,
+      "height": 357,
+      "samplesPerPixel": 1,
+      "bitsPerSample": 32,
+      "planarConfiguration": 1,
+      "pixelSizeDegrees": [
+        0.04491576420597607,
+        0.04491576420597607
+      ],
+      "bounds": {
+        "west": 94.9968412956394,
+        "south": -7.006859216132266,
+        "east": 108.02241291537246,
+        "north": 9.028068605401192
+      },
+      "requestedBounds": {
+        "west": 95,
+        "south": -7,
+        "east": 108,
+        "north": 9
+      },
+      "coversRequested": true,
+      "geographicCrs": 4326,
+      "rasterType": 1,
+      "bandDescriptions": [
+        "absorbing_aerosol_index"
+      ],
+      "noData": null,
+      "metadataPresent": true,
+      "expectedBands": [
+        "absorbing_aerosol_index"
+      ],
+      "bandOrderVerified": true,
+      "valid": true
+    },
+    {
+      "file": "s5p_ai_2019-09-22.tif",
+      "byteOrder": "II",
+      "tiffVariant": "BigTIFF",
+      "width": 290,
+      "height": 357,
+      "samplesPerPixel": 1,
+      "bitsPerSample": 32,
+      "planarConfiguration": 1,
+      "pixelSizeDegrees": [
+        0.04491576420597607,
+        0.04491576420597607
+      ],
+      "bounds": {
+        "west": 94.9968412956394,
+        "south": -7.006859216132266,
+        "east": 108.02241291537246,
+        "north": 9.028068605401192
+      },
+      "requestedBounds": {
+        "west": 95,
+        "south": -7,
+        "east": 108,
+        "north": 9
+      },
+      "coversRequested": true,
+      "geographicCrs": 4326,
+      "rasterType": 1,
+      "bandDescriptions": [
+        "absorbing_aerosol_index"
+      ],
+      "noData": null,
+      "metadataPresent": true,
+      "expectedBands": [
+        "absorbing_aerosol_index"
+      ],
+      "bandOrderVerified": true,
+      "valid": true
+    }
+  ]
+}

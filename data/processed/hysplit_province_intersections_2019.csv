@@ -1,0 +1,28 @@
+event_date,arrival,noaa_job,case_type,arrival_height_m_agl,province,hourly_endpoints_inside,oldest_age_inside_hours,youngest_age_inside_hours
+2019-08-11,2019-08-11 06:00 UTC,178849,low-AOD control,500,Riau,13,-42.0,-30.0
+2019-08-11,2019-08-11 06:00 UTC,178849,low-AOD control,500,Jambi,0,,
+2019-08-11,2019-08-11 06:00 UTC,178849,low-AOD control,500,Sumatera Selatan,0,,
+2019-08-11,2019-08-11 06:00 UTC,178849,low-AOD control,1500,Riau,0,,
+2019-08-11,2019-08-11 06:00 UTC,178849,low-AOD control,1500,Jambi,0,,
+2019-08-11,2019-08-11 06:00 UTC,178849,low-AOD control,1500,Sumatera Selatan,0,,
+2019-08-11,2019-08-11 06:00 UTC,178849,low-AOD control,3000,Riau,0,,
+2019-08-11,2019-08-11 06:00 UTC,178849,low-AOD control,3000,Jambi,0,,
+2019-08-11,2019-08-11 06:00 UTC,178849,low-AOD control,3000,Sumatera Selatan,0,,
+2019-09-11,2019-09-11 06:00 UTC,163615,high-AOD event,500,Riau,28,-50.0,-23.0
+2019-09-11,2019-09-11 06:00 UTC,163615,high-AOD event,500,Jambi,8,-58.0,-51.0
+2019-09-11,2019-09-11 06:00 UTC,163615,high-AOD event,500,Sumatera Selatan,10,-68.0,-59.0
+2019-09-11,2019-09-11 06:00 UTC,163615,high-AOD event,1500,Riau,43,-61.0,-18.0
+2019-09-11,2019-09-11 06:00 UTC,163615,high-AOD event,1500,Jambi,3,-64.0,-62.0
+2019-09-11,2019-09-11 06:00 UTC,163615,high-AOD event,1500,Sumatera Selatan,0,,
+2019-09-11,2019-09-11 06:00 UTC,163615,high-AOD event,3000,Riau,5,-27.0,-23.0
+2019-09-11,2019-09-11 06:00 UTC,163615,high-AOD event,3000,Jambi,0,,
+2019-09-11,2019-09-11 06:00 UTC,163615,high-AOD event,3000,Sumatera Selatan,0,,
+2019-09-22,2019-09-21 18:00 UTC (22 Sep 02:00 MYT),163662,high-AOD event,500,Riau,0,,
+2019-09-22,2019-09-21 18:00 UTC (22 Sep 02:00 MYT),163662,high-AOD event,500,Jambi,0,,
+2019-09-22,2019-09-21 18:00 UTC (22 Sep 02:00 MYT),163662,high-AOD event,500,Sumatera Selatan,0,,
+2019-09-22,2019-09-21 18:00 UTC (22 Sep 02:00 MYT),163662,high-AOD event,1500,Riau,0,,
+2019-09-22,2019-09-21 18:00 UTC (22 Sep 02:00 MYT),163662,high-AOD event,1500,Jambi,0,,
+2019-09-22,2019-09-21 18:00 UTC (22 Sep 02:00 MYT),163662,high-AOD event,1500,Sumatera Selatan,0,,
+2019-09-22,2019-09-21 18:00 UTC (22 Sep 02:00 MYT),163662,high-AOD event,3000,Riau,8,-65.0,-58.0
+2019-09-22,2019-09-21 18:00 UTC (22 Sep 02:00 MYT),163662,high-AOD event,3000,Jambi,1,-72.0,-72.0
+2019-09-22,2019-09-21 18:00 UTC (22 Sep 02:00 MYT),163662,high-AOD event,3000,Sumatera Selatan,0,,

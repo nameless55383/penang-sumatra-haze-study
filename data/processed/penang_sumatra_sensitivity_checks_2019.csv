@@ -1,0 +1,29 @@
+analysis_group,outcome,predictor,lag_days,scope,n_pairs,pearson_r,spearman_rho,notes
+AOD statistic sensitivity,MAIAC AOD mean,Eligible fire detections,0,All available days,27,0.8212,0.5842,
+AOD statistic sensitivity,MAIAC AOD mean,Eligible fire detections,1,All available days,27,0.8157,0.7045,
+AOD statistic sensitivity,MAIAC AOD mean,Eligible fire detections,2,All available days,26,0.646,0.5685,
+AOD statistic sensitivity,MAIAC AOD mean,Eligible fire detections,3,All available days,25,0.4009,0.5131,
+AOD statistic sensitivity,MAIAC AOD median,Eligible fire detections,0,All available days,27,0.8206,0.5647,
+AOD statistic sensitivity,MAIAC AOD median,Eligible fire detections,1,All available days,27,0.8165,0.6764,
+AOD statistic sensitivity,MAIAC AOD median,Eligible fire detections,2,All available days,26,0.6458,0.5583,
+AOD statistic sensitivity,MAIAC AOD median,Eligible fire detections,3,All available days,25,0.3926,0.4815,
+Month sensitivity,MAIAC AOD mean,Eligible fire detections,0,August 2019,12,0.0423,0.2378,
+Month sensitivity,MAIAC AOD mean,Eligible fire detections,1,August 2019,12,0.1037,0.0979,
+Month sensitivity,MAIAC AOD mean,Eligible fire detections,0,September 2019,15,0.8164,0.625,
+Month sensitivity,MAIAC AOD mean,Eligible fire detections,1,September 2019,15,0.7809,0.7536,
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,0,Favourable on fire day,21,0.8095,0.5597,This is the definition used in the primary lag-correlation table.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,0,Favourable on receptor day,21,0.8095,0.5597,Wind flag is evaluated on the AOD observation day.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,0,Favourable throughout lag window,21,0.8095,0.5597,Every day from the fire observation through the AOD day is favourable.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,1,Favourable on fire day,20,0.8119,0.7308,This is the definition used in the primary lag-correlation table.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,1,Favourable on receptor day,21,0.8036,0.7091,Wind flag is evaluated on the AOD observation day.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,1,Favourable throughout lag window,17,0.8017,0.7108,Every day from the fire observation through the AOD day is favourable.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,2,Favourable on fire day,18,0.5991,0.4964,This is the definition used in the primary lag-correlation table.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,2,Favourable on receptor day,20,0.6175,0.6045,Wind flag is evaluated on the AOD observation day.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,2,Favourable throughout lag window,13,0.5407,0.4451,Every day from the fire observation through the AOD day is favourable.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,3,Favourable on fire day,17,0.3178,0.5392,This is the definition used in the primary lag-correlation table.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,3,Favourable on receptor day,20,0.3403,0.4256,Wind flag is evaluated on the AOD observation day.
+Wind timing sensitivity,MAIAC AOD mean,Eligible fire detections,3,Favourable throughout lag window,10,0.0976,0.1636,Every day from the fire observation through the AOD day is favourable.
+Linear detrending sensitivity,Detrended MAIAC AOD mean,Detrended eligible fire detections,0,All available days,27,0.8057,0.5226,Both variables were residualised against a linear day-index trend.
+Linear detrending sensitivity,Detrended MAIAC AOD mean,Detrended eligible fire detections,1,All available days,27,0.7876,0.6398,Both variables were residualised against a linear day-index trend.
+Serial dependence diagnostic,Eligible fire detections,Previous-day Eligible fire detections,1,Adjacent calendar days,60,0.7189,0.7948,Diagnostic only; daily observations should not be assumed independent.
+Serial dependence diagnostic,MAIAC AOD mean,Previous-day MAIAC AOD mean,1,Adjacent calendar days,16,0.5103,0.6971,Diagnostic only; daily observations should not be assumed independent.

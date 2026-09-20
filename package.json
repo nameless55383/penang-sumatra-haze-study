@@ -1,0 +1,13 @@
+{
+  "name": "penang-sumatra-haze-analysis",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Reproducible plotting support for the 2019 Penang transboundary haze case study.",
+  "scripts": {
+    "validate:geotiffs": "node scripts/validate_event_geotiffs.js",
+    "plot:events": "node scripts/plot_event_plume_wind.js"
+  },
+  "dependencies": {
+    "sharp": "0.35.4"
+  }
+}

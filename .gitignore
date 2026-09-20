@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+Thumbs.db
+tmp/
+data/raw/
+*apims_hourly_api_2018-2022*
+*penang_apims_hourly_api*
+*penang_apims_daily_api*
