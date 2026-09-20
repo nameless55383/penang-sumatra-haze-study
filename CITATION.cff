@@ -4,8 +4,9 @@ title: "Satellite Investigation of Transboundary Haze Transport from Sumatran Fi
 type: software
 version: 1.0.0
 date-released: 2026-09-20
+doi: "10.5281/zenodo.22858814"
 repository-code: "https://github.com/nameless55383/penang-sumatra-haze-study"
-url: "https://github.com/nameless55383/penang-sumatra-haze-study"
+url: "https://doi.org/10.5281/zenodo.22858814"
 authors:
   - family-names: "Lim"
     given-names: "Avelyn Xing Rui"

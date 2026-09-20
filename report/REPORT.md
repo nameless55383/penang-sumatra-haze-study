@@ -2,6 +2,7 @@
 
 **Author:** Avelyn Lim Xing Rui  
 **Publication version:** 1.0.0 (20 September 2026)  
+**DOI:** [10.5281/zenodo.22858814](https://doi.org/10.5281/zenodo.22858814)  
 **Project type:** Independent A-level research project  
 
 **Study period:** 1 August-30 September 2019  
