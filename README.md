@@ -3,6 +3,7 @@
 **Author:** Avelyn Lim Xing Rui  
 **Version:** 1.0.0  
 **Study period:** 1 August-30 September 2019  
+**Repository:** https://github.com/nameless55383/penang-sumatra-haze-study  
 
 This independent A-level research project investigates whether aerosol loading over George Town, Penang, during the 2019 Southeast Asian haze was consistent with transport from fires in Riau, Jambi, and South Sumatra.
 
